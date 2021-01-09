@@ -10,4 +10,21 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+
+<!--    <string name="hello_blank_fragment">Hello blank fragment</string>-->
+
+
+    <!--    string para login-->
+    <string name="login">Inicio de Sesion</string>
+    <string name="go_register">Ir a Registrarse</string>
+    <string name="init_sesion">Iniciar Sesion</string>
+    <string name="email">Correo Electronico</string>
+    <string name="password">Contraseña</string>
+
+<!--    string para register-->
+    <string name="register">Registro de Usuario</string>
+    <string name="go_login">Ir a inicio de sesion</string>
+    <string name="init_register">Registrarse</string>
+    <string name="name">Nombre</string>
+
 </resources>
